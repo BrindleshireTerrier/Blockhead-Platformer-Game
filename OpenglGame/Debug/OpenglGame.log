@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\calvinm\source\repos\openglgame\openglgame\enemy.h(31): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(470): warning C4018: '<': signed/unsigned mismatch
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(481): warning C4018: '<': signed/unsigned mismatch
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(515): warning C4018: '<': signed/unsigned mismatch
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(594): warning C4018: '<': signed/unsigned mismatch
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(797): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(798): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(815): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(816): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(877): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\calvinm\source\repos\openglgame\openglgame\main.cpp(888): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenglGame.vcxproj -> C:\Users\CalvinM\source\repos\OpenglGame\Debug\OpenglGame.exe
